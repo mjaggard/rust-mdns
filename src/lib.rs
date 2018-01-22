@@ -6,7 +6,6 @@ extern crate futures;
 extern crate libc;
 extern crate multimap;
 extern crate net2;
-extern crate nix;
 extern crate rand;
 extern crate tokio_core as tokio;
 
